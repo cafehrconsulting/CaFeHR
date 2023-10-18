@@ -1,2 +1,2 @@
-# CateHR
+# CafeHR
 Human resources specialist consulting 
